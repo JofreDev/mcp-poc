@@ -14,7 +14,7 @@ def add(a: int, b: int) -> int:
 
 # Add an addition tool
 @mcp.tool()
-def createPyramid(base: int) -> int:
+def createPyramid(base: int) -> str:
     """Build a pyramid with a variable base"""
 
     result = ""
