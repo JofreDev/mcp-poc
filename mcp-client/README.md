@@ -6,4 +6,4 @@
 - Create the model to be used
 - Specify the variables in the .env file
 
-## `python3 open_ai-client.py`
+### `python3 open_ai-client.py`
