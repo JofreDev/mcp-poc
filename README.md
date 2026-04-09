@@ -3,12 +3,12 @@
 
 ## install mcp cli for python
 
-    - pip install "mcp[cli]" 
+    `pip install "mcp[cli]"` 
 
 ## execute mcp server 
 
-    - mcp dev server.py
+    `mcp dev server.py`
 
 ## execute inspector
 
-    - npx @modelcontextprotocol/inspector mcp run server.py  
+    `npx @modelcontextprotocol/inspector mcp run server.py`  
