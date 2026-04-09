@@ -1,11 +1,11 @@
 # mcp-poc
 
 
-## install mcp cli for python
+## Install mcp cli for python
 ###    `pip install "mcp[cli]"` 
 
-## execute mcp server 
+## Execute mcp server 
 ###    `mcp dev server.py`
 
-## execute inspector
+## Execute inspector
 ###    `npx @modelcontextprotocol/inspector mcp run server.py`  
