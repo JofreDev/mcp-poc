@@ -1,5 +1,5 @@
 # Up server
-## - uvicorn server:app
+## - `uvicorn server:app`
 
 # Inspector    
-## - npx @modelcontextprotocol/inspector mcp run server.py 
+## - `npx @modelcontextprotocol/inspector mcp run server.py`
